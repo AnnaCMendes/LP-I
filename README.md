@@ -8,7 +8,7 @@ O teste de mesa com 10 cenários (entradas e resultados da média) está dispon�
 <a href="https://docs.google.com/spreadsheets/d/1piFx1nxSmmgiJVqBju87PeYBEU4hi_0Q/edit?usp=sharing&ouid=113936239877542876925&rtpof=true&sd=true" target="_blank">♦ Teste de mesa</a>
 
 <div align="center">
-  <img src="assets/TestedeMesa.png" alt="Teste de Mesa" width="600px" />
+  <img src="assets/TestedeMesa.PNG" alt="Teste de Mesa" width="600px" />
 </div>
 
 ## 🎵 Música - Como é grande o meu amor por você (Roberto Carlos)
